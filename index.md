@@ -15,7 +15,7 @@
 <h3>Phone Number : +91-9972266221.</h3><br>
 <h3>Email Address : amansh93 at gmail dot com</h3><br>
   Some of the projects I have worked on are <br>
-<div class="menu-item"><a href="p2.pdf" class="current">Dual Kolmogorov Adversary Proof</a></div>
+<div class="menu-item"><a href="DK2.pdf" class="current">Dual Kolmogorov Adversary Proof</a></div>
 <div class="menu-item"><a href="p1.pdf" class="current">New Formulations of Minimax Adversary</a></div>
 <div class="menu-item"><a href="p3.pdf" class="current">Concentration Bounds for Absolutely Normal Real Numbers</a></div>
 <div class="menu-item"><a href="p4.pdf" class="current">Unique games with Entangled Provers are easy</a></div>
