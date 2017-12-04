@@ -19,6 +19,7 @@
 <div class="menu-item"><a href="p1.pdf" class="current">New Formulations of Minimax Adversary</a></div>
 <div class="menu-item"><a href="p3.pdf" class="current">Concentration Bounds for Absolutely Normal Real Numbers</a></div>
 <div class="menu-item"><a href="p4.pdf" class="current">Unique games with Entangled Provers are easy</a></div>
+<div class="menu-item"><a href="p5.pdf" class="current">Survey on the relation between Kolmogorov Complexity and Shannon Entropy for Bernoulli Cell Problems</a></div>
 <h3></h3><br>
 </body>
 </html>
